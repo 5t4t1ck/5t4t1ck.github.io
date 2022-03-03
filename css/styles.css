@@ -16,3 +16,7 @@
     width: 70%;
   }
 }
+/* Estilo de viñetas*/
+ol {
+  list-style-type: upper-roman;
+}
